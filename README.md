@@ -1,6 +1,6 @@
 **SRUSHTI PATEL**  
 *Front-End  Developer | Database Administrator*  
-GitHub: [srushti.16patel@gmail.com](mailto:srushti.16patel@gmail.com) | +1 (647) 897-4593 | [LinkedIn](https://www.linkedin.com/in/srushti-patel-1)  
+GitHub: [srushti.16patel@gmail.com](mailto:srushti.16patel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/srushti-patel-1)  
 
 **ABOUT**
 
@@ -8,8 +8,7 @@ Hi, I’m Srushti Patel, a passionate Software Developer and Database Administra
 
 **CONTACT**
 
-📧 Email: [srushti.16patel@gmail.com](mailto:srushti.16patel@gmail.com)  
-📞 Phone: +1 (647) 897-4593  
+📧 Email: [srushti.16patel@gmail.com](mailto:srushti.16patel@gmail.com) 
 💼 LinkedIn: [linkedin.com/in/srushti-patel-1](https://www.linkedin.com/in/srushti-patel-1)  
 🔗 GitHub: [github.com/SrushtiPatel1](https://github.com/SrushtiPatel1)  
 
